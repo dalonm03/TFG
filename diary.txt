@@ -1,0 +1,1 @@
+10/01 Investigación de modelos pre-entrenados, MoViNets probable mejor opción.
