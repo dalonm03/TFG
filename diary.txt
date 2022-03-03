@@ -7,3 +7,4 @@ ENERO
 24-01 Vaguear, visitar a Lili y Linguaskill.
 ------------------------------------------------------------------------------
 FEBRERO
+28 Creado entorno virtual para MoViNet.
