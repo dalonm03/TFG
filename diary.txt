@@ -8,3 +8,7 @@ ENERO
 ------------------------------------------------------------------------------
 FEBRERO
 28 Creado entorno virtual para MoViNet.
+------------------------------------------------------------------------------
+MARZO
+09 Hechas pruebas con tutorial
+10 Creado entorno de conda TFG: ipykernel, tf, opencv, matplotlib y empezado con modelo Xception
