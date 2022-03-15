@@ -12,3 +12,6 @@ FEBRERO
 MARZO
 09 Hechas pruebas con tutorial
 10 Creado entorno de conda TFG: ipykernel, tf, opencv, matplotlib y empezado con modelo Xception
+14 Generado modelo con base Xception y mostrar en el Notebook
+15 Cogido código para recortar videos de página de tutorial de Tensorflow ¿en vez de recortar en el
+medio sería mejor recortar alrededor de persona? Install imageio y numpy
