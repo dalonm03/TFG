@@ -15,3 +15,7 @@ MARZO
 14 Generado modelo con base Xception y mostrar en el Notebook
 15 Cogido código para recortar videos de página de tutorial de Tensorflow ¿en vez de recortar en el
 medio sería mejor recortar alrededor de persona? Install imageio y numpy
+21 Me vinieron Juaki y Kike a molestar
+22 Creada funcion para recoger el nombre y label de los videos de cada split
+23 Empezado a intentar cargar los videos de entrenamineto del split, not entran en memoria con numpy
+¿reducir numero frames por clip? TFDataset
