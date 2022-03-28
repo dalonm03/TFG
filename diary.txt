@@ -19,3 +19,4 @@ medio sería mejor recortar alrededor de persona? Install imageio y numpy
 22 Creada funcion para recoger el nombre y label de los videos de cada split
 23 Empezado a intentar cargar los videos de entrenamineto del split, not entran en memoria con numpy
 ¿reducir numero frames por clip? TFDataset
+28 Problemas a la hora de encontar información sobre como cargar datasets formados por videos
