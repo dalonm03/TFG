@@ -21,3 +21,6 @@ medio sería mejor recortar alrededor de persona? Install imageio y numpy
 ¿reducir numero frames por clip? TFDataset
 28 Problemas a la hora de encontar información sobre como cargar datasets formados por videos
 29 Instalado pip para instalar paquete para transformar videos en TFrecords (video2tfrecord) y codigo para pasar a TFrecords, hace falta refinarlo
+31 Cambiado codigo para transformar videos a TFRecords para que sea una funcion y cree los directorios. 
+Tamaño más grande de TFRecords que videos originales. Guardar en batches más grandes?
+------------------------------------------------------------------------------
