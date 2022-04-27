@@ -28,3 +28,10 @@ ABRIL
 18-19 Problemas para leer los videos de los TFRecords añadida carpeta de video2tfrecord al workspace
 21 Cambiada función load video para que no normalice los valores (valores entre 0 y 1 AKA dividir entre 255)
 Problemas a la hora de recuperar los frames de los videos guardados en TFrecords (Estructura de los array)
+25 REUNIÓN Formato núcleo de trabajo
+1.DTsets
+    Prepocesado
+2.REDES
+3.Conclusiones
+13-14 jul~Presentaciones del TFG
+27 Incluida funcion para pasar el TFRecords en el jupyter, para debugear 
