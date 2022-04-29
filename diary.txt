@@ -34,4 +34,5 @@ Problemas a la hora de recuperar los frames de los videos guardados en TFrecords
 2.REDES
 3.Conclusiones
 13-14 jul~Presentaciones del TFG
-27 Incluida funcion para pasar el TFRecords en el jupyter, para debugear 
+27 Incluida funcion para pasar el TFRecords en el jupyter, para debugear
+29 Reconstrucción de los videos desde TFRecords exitosa
