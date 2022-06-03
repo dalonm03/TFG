@@ -39,3 +39,6 @@ Problemas a la hora de recuperar los frames de los videos guardados en TFrecords
 ------------------------------------------------------------------------------
 MAYO
 22 Updateado Tensorflow (2.3 -> 2.9.1) utilizando pip install tensorflow --upgrade y añadido capas de prepocesado y dropout
+------------------------------------------------------------------------------
+JUNIO
+03 Cambiado para que no se guarde el tamaño de los frames y depth en TFRecords. Ahora se guarda la label y los frames unicamente.
