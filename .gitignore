@@ -4,3 +4,4 @@ test_train_splits
 kinetics-i3d
 diary.txt
 tfRecords
+features
