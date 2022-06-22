@@ -5,3 +5,5 @@ kinetics-i3d
 diary.txt
 tfRecords
 features
+logs
+*.h5
