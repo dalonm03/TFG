@@ -7,3 +7,5 @@ tfRecords
 features
 logs
 *.h5
+img_dataset
+checkpoint
